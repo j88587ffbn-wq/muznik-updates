@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apk": "Muznik.apk",
+  "notes": "Добавлено обновление из приложения: раз в день проверяет сайт и предлагает установить новую версию.",
+  "size": 21479040,
+  "sha256": "58abb8b37deca780e1a7ac68c5ee1b495cd798de9c698ceebbd337bfba6aac25"
+}
